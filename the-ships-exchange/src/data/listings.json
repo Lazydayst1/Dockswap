@@ -1,26 +1,23 @@
 [
   {
-    "id": 1,
-    "title": "Bar Fridge",
+    "id": "1",
+    "title": "LG Bar Fridge",
     "price": 80,
-    "category": "Appliances",
-    "image": "/items/fridge.jpg",
-    "description": "Compact fridge, great for cabins or mess rooms."
+    "location": "HMAS Cerberus - Block 12",
+    "image": "/items/fridge.jpg"
   },
   {
-    "id": 2,
-    "title": "2009 Toyota Corolla",
+    "id": "2",
+    "title": "Microwave Oven",
+    "price": 50,
+    "location": "Cerberus - Mess Area",
+    "image": "/items/microwave.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Toyota Corolla 2010",
     "price": 3500,
-    "category": "Vehicles",
-    "image": "/items/car.jpg",
-    "description": "Reliable runabout, rego until Jan, 150k km."
-  },
-  {
-    "id": 3,
-    "title": "Queen Mattress",
-    "price": 150,
-    "category": "Furniture",
-    "image": "/items/mattress.jpg",
-    "description": "Clean and comfy, only used 6 months."
+    "location": "Base Carpark",
+    "image": "/items/car.jpg"
   }
 ]
