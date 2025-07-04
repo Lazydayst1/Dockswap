@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Bar Fridge",
+    "price": 80,
+    "category": "Appliances",
+    "image": "/items/fridge.jpg",
+    "description": "Compact fridge, great for cabins or mess rooms."
+  },
+  {
+    "id": 2,
+    "title": "2009 Toyota Corolla",
+    "price": 3500,
+    "category": "Vehicles",
+    "image": "/items/car.jpg",
+    "description": "Reliable runabout, rego until Jan, 150k km."
+  },
+  {
+    "id": 3,
+    "title": "Queen Mattress",
+    "price": 150,
+    "category": "Furniture",
+    "image": "/items/mattress.jpg",
+    "description": "Clean and comfy, only used 6 months."
+  }
+]
